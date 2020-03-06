@@ -8,7 +8,7 @@
 </head>
 <body>
 	<%
-		session.invalidate();
+		session.invalidate();  //세션을 빼앗김
 	%>	
 	<script>
 		location.href = 'main.jsp';
