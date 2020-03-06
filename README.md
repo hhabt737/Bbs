@@ -8,9 +8,9 @@
 * 사용 기술 및 개발환경
   * O/S : Windows 10(개발환경)
   * Server : Apache, Tomcat
-  * DB : 
+  * DB : MySQL
   * Framework/flatform : 
-  * Programming Language :
+  * Programming Language : 
   * Tool :
   * API : 
  
